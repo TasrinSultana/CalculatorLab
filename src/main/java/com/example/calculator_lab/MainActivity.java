@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
         button_one=(Button)findViewById(R.id.btn_1);
         button_two=(Button)findViewById(R.id.btn_2);
-        button_three=(Button)findViewById(R.id.btn_3);
+        button_three=(Button) findViewById(R.id.btn_3);
         button_div=(Button)findViewById(R.id.btn_div);
 
         button_four=(Button)findViewById(R.id.btn_4);
